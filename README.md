@@ -29,12 +29,10 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EkiZR&theme=synthwave&layout=compact&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNhOTIyZjQ3NjE4ZmM5ZDRhY2FmMzBhODY4NmQ5NjBhNzI5NGYwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LMcB8XospGZO8UQq87/giphy.gif" width="350"/>
-</div>
+
 
 <!-- Tech Stack with Glowing Effect -->
-<h2 align="center">⚡ Technology Arsenal ⚡</h2>
+<h2 align="center">⚡ Stack ⚡</h2>
 <div align="center" style="background: linear-gradient(to right, #FF71CE, #01CDFE);">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FF71CE);"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #01CDFE);"/>
