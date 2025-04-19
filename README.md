@@ -2,13 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!+💫;I'm+Hafis;+FullStack+Developer+✨" alt="Typing SVG" />
 </div>
 
-<div align="center">
-<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ3MzBmMDBkYTJkOThmYzJlZjM3NjYzZjVlZjI1MDFkODQwZGY1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/mf4qECoTz8ZVK/giphy.gif" width="300"/>
-</div> -->
-
 <!-- Profile Views Counter with cute emoji -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EkiZR&label=Profile+Views+🎈&color=ff71ce&style=for-the-badge" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=hafisc&label=Profile+Views+🎈&color=ff71ce&style=for-the-badge" alt="profile-views" />
 </p>
 
 <!-- Animated Snake with neon effect -->
@@ -29,8 +25,6 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=synthwave&layout=compact&hide_border=true" />
 </div>
 
-
-
 <!-- Tech Stack with Glowing Effect -->
 <h2 align="center">⚡ Stack ⚡</h2>
 <div align="center" style="background: linear-gradient(to right, #FF71CE, #01CDFE);">
@@ -38,7 +32,6 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #01CDFE);"/>
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #05FFA1);"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FFF);"/>
-<!--   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #B967FF);"/> -->
 </div>
 
 <!-- Other Technologies with Neon Glow -->
