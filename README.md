@@ -6,19 +6,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafisc&label=Profile+Views+🎈&color=ff71ce&style=for-the-badge" alt="profile-views" />
 </p>
-
 <!-- Cute Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Stats Section with Anime Style - Height Adjusted -->
+<!-- Stats Section with Anime Style - Consistent Height -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hafisc&theme=synthwave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=synthwave&layout=compact&hide_border=true&langs_count=8" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hafisc&theme=synthwave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=synthwave&layout=compact&hide_border=true&langs_count=6" />
 </div>
 
 <!-- GitHub Streak Stats -->
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true" />
+<div align="center" style="margin-top: 10px;">
+  <img height="150" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true" />
 </div>
 
 <!-- Tech Stack with Glowing Effect -->
@@ -51,6 +50,5 @@
 
 <!-- Animated Footer with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&customColorList=24" width="100%"/>
-
 <!-- Cute Corner Decoration -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" align="right">
