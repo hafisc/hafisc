@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!+💫;I'm+Hafis;+FullStack+Developer+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!+%F0%9F%92%AB;I%27m+Hafis;+FullStack+Developer+%E2%9C%A8" alt="" />
 </div>
 
 <!-- Profile Views Counter with cute emoji -->
