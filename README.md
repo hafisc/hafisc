@@ -12,16 +12,15 @@
 <!-- Cute Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Dark Theme Alternative -->
+<!-- Stats Section with Anime Style -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafisc&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=tokyonight&layout=compact&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafisc&theme=synthwave&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=synthwave&layout=compact&hide_border=true&langs_count=8" />
 </div>
 
-<!-- Neon Theme Alternative -->
+<!-- GitHub Streak Stats -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hafisc&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&theme=radical&layout=compact&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true" />
 </div>
 
 <!-- Tech Stack with Glowing Effect -->
