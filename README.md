@@ -43,7 +43,7 @@
   <a href="https://www.instagram.com/hafisch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF71CE" height="35" alt="instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/alhafiscode" target="_blank">
+  <a href="https://www.linkedin.com/in/hafisch" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=01CDFE" height="35" alt="linkedin"/>
   </a>
 </div>
