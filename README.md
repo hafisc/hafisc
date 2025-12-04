@@ -10,7 +10,8 @@
 <!-- Stats Section with Anime Style - Consistent Height -->
 <div align="center">
 <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/hafisc/hafisc/main/github-metrics.svg" />
+
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
 </div>
