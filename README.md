@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I%27m+Hafis;+FullStack+Developer;Starboy+Engineer+🚀" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I%27m+Hafis;FullStack+Developer;Starboy+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -17,11 +17,13 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img height="150" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img height="150" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true&mode=weekly&v=2026" alt="GitHub Streak" />
+  </a>
 </div>
 
 <h2 align="center">⚡ Stack ⚡</h2>
-<div align="center" style="background: linear-gradient(to right, #FF71CE, #01CDFE); border-radius: 10px; padding: 10px; width: 80%;">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FF71CE);"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #01CDFE);"/>
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #05FFA1);"/>
