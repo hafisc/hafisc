@@ -17,9 +17,7 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <a href="https://git.io/streak-stats">
-    <img height="150" src="https://streak-stats.demolab.com/?user=hafisc&theme=synthwave&hide_border=true&mode=weekly&v=2026" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <h2 align="center">⚡ Stack ⚡</h2>
