@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I%27m+Hafis;+FullStack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=I%27m+Hafis;+FullStack+Developer;Starboy+Engineer+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true&custom_title=Hafis%27s+Global+Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
 </div>
@@ -29,14 +29,14 @@
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,git,bootstrap,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,firebase,git,bootstrap,vscode,php,laravel&theme=dark" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h2 align="center">🌸 Let's Connect! 🌸</h2>
+<h2 align="center">🌸 Connect with Hafis 🌸</h2>
 <div align="center">
   <a href="https://www.instagram.com/hafisch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF71CE" height="35" alt="instagram"/>
