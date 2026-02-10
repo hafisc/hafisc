@@ -8,9 +8,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Stats (kiri) dengan rank letter (S/A/B) + Top Languages pie chart (kanan) -->
+<!-- Stats (kiri) dengan rank letter (force bust cache) + Top Languages pie chart (kanan) -->
 <div align="center">
-  <img height="180em" src="https://hafisch-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&v=20260210" />
+  <img height="180em" src="https://hafisch-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=0&v=202602101823&dummy=fixcache" />
   <img height="180em" src="https://hafisch-stats.vercel.app/api/top-langs/?username=hafisc&theme=synthwave&hide_border=true&layout=pie&hide=html,css" />
 </div>
 
