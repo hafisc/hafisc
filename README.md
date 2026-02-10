@@ -10,17 +10,26 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=86400" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8&cache_seconds=86400" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hafisc&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=hafisc&theme=synthwave&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
 </div>
 
 <h2 align="center">⚡ Stack ⚡</h2>
+
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FF71CE);"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #01CDFE);"/>
@@ -37,6 +46,7 @@
 </div>
 
 <h2 align="center">🌸 Connect with Hafis 🌸</h2>
+
 <div align="center">
   <a href="https://www.instagram.com/hafisch" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF71CE" height="35" alt="instagram"/>
