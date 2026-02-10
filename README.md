@@ -8,17 +8,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- GitHub Profile Summary Cards (Alternative yang stable) -->
+<!-- Cards side-by-side: Top Languages (kiri) + Stats (kanan) -->
 <div align="center">
-  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafisc&theme=synthwave" />
 </div>
-<div align="center" style="margin-top: 10px;">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
-</div>
 
-<!-- Streak Stats (Alternative lebih stable) -->
-<div align="center" style="margin-top: 10px;">
+<!-- Streak Stats di bawah -->
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
 
