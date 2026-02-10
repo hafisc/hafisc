@@ -8,13 +8,13 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Cards side-by-side: Top Languages (kiri) + Stats (kanan) -->
+<!-- Stats (kiri) dengan rank di tengah + Top Languages (kanan) -->
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafisc&theme=synthwave" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
+  <img height="180em" src="https://YOUR_DEPLOY_URL/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://YOUR_DEPLOY_URL/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
-<!-- Streak Stats di bawah -->
+<!-- Streak Stats tetap pakai yang stable -->
 <div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </div>
