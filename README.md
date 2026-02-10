@@ -15,7 +15,6 @@
 </div>
 <div align="center" style="margin-top: 10px;">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafisc&theme=synthwave" />
 </div>
 
 <!-- Streak Stats (Alternative lebih stable) -->
