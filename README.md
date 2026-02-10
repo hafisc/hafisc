@@ -10,7 +10,7 @@
 
 <!-- GitHub Profile Summary Cards (Alternative yang stable) -->
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafisc&theme=synthwave" />
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafisc&theme=synthwave" />
 </div>
 <div align="center" style="margin-top: 10px;">
