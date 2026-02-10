@@ -10,8 +10,8 @@
 
 <!-- Cards side-by-side: Top Languages (kiri) + Stats (kanan) -->
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafisc&theme=synthwave" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
 </div>
 
 <!-- Streak Stats di bawah -->
