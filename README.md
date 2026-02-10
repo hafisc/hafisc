@@ -7,14 +7,22 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+<!-- GitHub Profile Summary Cards (Alternative yang stable) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafisc&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true" />
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafisc&layout=compact&theme=synthwave&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafisc&theme=synthwave" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafisc&theme=synthwave" />
 </div>
 <div align="center" style="margin-top: 10px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" /></a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafisc&theme=synthwave&hide=html,css" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafisc&theme=synthwave" />
 </div>
+
+<!-- Streak Stats (Alternative lebih stable) -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hafisc&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <h2 align="center">⚡ Stack ⚡</h2>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="margin: 7px; filter: drop-shadow(0 0 10px #FF71CE);"/>
